@@ -1,0 +1,19 @@
+name: Bug report
+about: Report a bug or unexpected behavior
+title: "[BUG] "
+labels: bug
+assignees: ''
+
+---
+# Steps to reproduce
+- 
+
+# Expected behavior
+- 
+
+# Actual behavior
+- 
+
+# Environment
+- OS:
+- Browser / Python version:
